@@ -9,7 +9,7 @@
 
 ### Technical Skills  
 
-#### 💻 Languages  
+#### Languages  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/> 
@@ -30,13 +30,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode"/> 
 
 #### Core Areas of Expertise  
-- Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms  
-- Simulation Modeling (Conway’s Game of Life, Agent-Based Systems)  
-- Web Development (Frontend & Backend)  
-- Database Design & Query Optimization  
-- Software Engineering Principles (SOLID, Agile, Testing)  
-- Data Visualization & Analysis  
+Object-Oriented Programming (OOP)  
+Data Structures & Algorithms  
+Simulation Modeling (Conway’s Game of Life, Agent-Based Systems)  
+Web Development (Frontend & Backend)  
+Database Design & Query Optimization  
+Software Engineering Principles (SOLID, Agile, Testing)  
+Data Visualization & Analysis  
 
 ---
 
