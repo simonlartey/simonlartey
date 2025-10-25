@@ -5,6 +5,7 @@
 💻 Software Engineer | Data Enthusiast | Maker  
 📍 Waterville, ME  
 
+![Profile Views](https://komarev.com/ghpvc/?username=simonlartey&color=blueviolet&style=for-the-badge)
 ---
 
 ### Technical Skills  
