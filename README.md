@@ -32,7 +32,7 @@
 #### Core Areas of Expertise  
 Object-Oriented Programming (OOP)  
 Data Structures & Algorithms  
-Simulation Modeling (Conway’s Game of Life, Agent-Based Systems)  
+Simulation Modeling   
 Web Development (Frontend & Backend)  
 Database Design & Query Optimization  
 Software Engineering Principles (SOLID, Agile, Testing)  
