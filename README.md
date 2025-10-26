@@ -2,7 +2,7 @@
 
 # Hi, I'm Simon Lartey 👋  
 🎓 Computer Science @ Colby College  
-💻 Software Engineer | Data Enthusiast | Maker  
+💻 Software Engineer | Data Enthusiast |   
 📍 Waterville, ME  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=simonlartey&color=blueviolet&style=for-the-badge)
